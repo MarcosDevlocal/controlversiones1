@@ -9,5 +9,5 @@ package controlversiones1;
  * @author dam
  */
 public class ClaseProduccion {
-    HOLA
+    
 }
